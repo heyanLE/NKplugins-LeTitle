@@ -1,0 +1,46 @@
+{
+  "说明1":"% => 称号 & => 名字",
+
+  "be_set_title":"你的称号被设置为%",
+  "be_set_title_def":"你的称号被设置为默认：%",
+  "be_give_title":"& 把称号“%”给了你",
+  "be_give_op_title":"你获得了称号 %",
+
+  "see_title":"你当前的称号为 %",
+  "see_title_him":"& 当前的称号为 %",
+  "see_title_list":"你当前可用称号为",
+  "see_title_list_him":"% 当前可用称号为",
+
+  "set_title":"成功把 & 的称号设置为 %",
+  "set_title_del":"成功删除 & 的称号 %",
+  "set_title_del_himself":"成功删除称号 %",
+  "set_title_def":"成功把 & 的称号设置为默认：%",
+  "set_title_def_himself":"成功把你的称号设置为默认：%",
+  "set_title_himself":"成功把你的称号设置为%",
+
+  "give_title":"成功把称号“%”给了&",
+  "give_have":"他已经拥有这个称号了",
+
+  "is_not_op":"你不是op",
+  "is_not_player":"请在游戏中使用该命令",
+  "is_not_have":"你没有该称号的使用权",
+  "is_not_num":"请输入正确的称号id",
+
+  "use_not_have":"请使用 /itt list 来查看可用称号列表和id",
+
+  "join":"[%§f]&加入了游戏",
+
+  "help1":"请输入下列命令",
+  "help2":"/tit set <称号>                 ----设置自己称号",
+  "help3":"/tit set <玩家名> <称号>        ----设置别人称号",
+  "help4":"/tit def                        ----设置自己称号为默认",
+  "help5":"/tit def <玩家名>               ----设置别人称号为默认",
+  "help6":"/tit use <称号id>               ----使用自己拥有的称号",
+  "help7":"/tit see                        ----查看自己称号",
+  "help8":"/tit see <玩家名>               ----查看别人称号",
+  "help9":"/tit list                       ----查看自己拥有的称号",
+  "help10":"/tit list <玩家名>              ----查看别人拥有的称号",
+  "help11":"/tit give <玩家名> <称号>       ----将称号使用权给别人",
+  "help12":"/tit del <称号>                 ----删除自己的称号",
+  "help13":"/tit del <玩家名> <称号>        ----删除别人的称号"
+}

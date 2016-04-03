@@ -1,0 +1,12 @@
+name: LeTitle
+main: cn.Le.Title.TitleMain
+version: "2.0.0"
+author: littlele
+api: ["1.0.0"]
+description: This is a plugin about Title
+
+commands:
+  tit:
+    aliases: ["tit"]
+    description: The conmands of LeTitle
+    usage: "/tit"

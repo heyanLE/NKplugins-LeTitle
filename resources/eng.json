@@ -1,0 +1,46 @@
+{
+  "explain":"% => Title & => Name",
+
+  "be_set_title":"Your title was set to %",
+  "be_set_title_def":"Your title was set to default : %",
+  "be_give_title":"Player & give his title '%' to you",
+  "be_give_op_title":"You get title %",
+
+  "see_title":"Your title is %",
+  "see_title_him":"Player &'s title is  %",
+  "see_title_list":"The list of your title is",
+  "see_title_list_him":"The list of %'s title",
+
+  "set_title":"Set &'s title to % successfully",
+  "set_title_def":"Set &'s title to default: % successfully",
+  "set_title_def_himself":"Set your title to default: % successfully",
+  "set_title_del":"Delete &'s title % successfully",
+  "set_title_del_himself":"Delete your title % successfully",
+  "set_title_himself":"Set your title to % successfully",
+
+  "give_title":"Give the title '%' to & successfully",
+  "give_have":"He has had this title",
+
+  "is_not_op":"You aren't OP",
+  "is_not_player":"Hey you aren't a player",
+  "is_not_have":"You don't have this title",
+  "is_not_num":"Please enter the correct TitleID",
+
+  "use_not_have":"Please use /itt list to see the title-list and title-id",
+
+  "join":"Player [%§f]& join the game",
+
+  "help1":"Command:",
+  "help2":"/tit set <Title>             ----Set your title",
+  "help3":"/tit set <Player> <Title>    ----Set his title",
+  "help4":"/tit def                     ----Set your title to default",
+  "help5":"/tit def <Player>            ----Set his title to default",
+  "help6":"/tit use <TitleID>           ----Use your title",
+  "help7":"/tit see                     ----See your title",
+  "help8":"/tit see <Player>            ----See his title",
+  "help9":"/tit list                    ----Show your title's list",
+  "help10":"/tit list <Player>           ----Show his title's list",
+  "help11":"/tit give <Player> <Title>   ----Give your title to him",
+  "help12":"/tit del <Title>             ----Delete your title",
+  "help13":"/tit del <Player> <Title>    ----Delete his title"
+}

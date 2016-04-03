@@ -1,0 +1,21 @@
+ #↓ 默认称号列表 （玩家第一次进服默认使用第一个）
+ #   The list of default's title.(The player who join the server first
+ #   will use the first title.)
+ Default_Title: XLE
+
+#↓ 聊天显示称号开关
+#   The power that show the title on player is chatting
+ Title_Chat: true
+ #↓ 玩家进服显示称号开关
+ #   The power that show the titie on player is joinning
+ Title_JoinMessage: true
+
+ #ps 以上开关关闭可阻止某些插件冲突。
+ #ps Run off(false) can avoid the some plugin conflict.
+
+ #↓ 语言
+ #   Language
+ Language: chs
+ #↑
+ # chs => 中文 Chinese
+ # eng => 英文 English
